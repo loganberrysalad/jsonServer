@@ -1,0 +1,36 @@
+{
+    "cars":[
+        {
+            "id": 1,
+            "makeModel":"Toyota Civic",
+            "year": "2015",
+            "color": "silver",
+            "price": "R45 000"
+        },
+        {
+            "id": 2,
+            "makeModel":"Ford Mustang",
+            "year": "2018",
+            "color": "red",
+            "price": "R198 000"
+        },
+        {
+            "id": 3,
+            "makeModel":"Mercedes-Benz S-Class",
+            "year": "2023",
+            "color": "white",
+            "price": "R200 000"
+        },
+        {
+            "id": 4,
+            "makeModel":"BMW 7 series",
+            "year": "2023",
+            "color": "blue",
+            "price": "R250 000"
+        }
+
+    ]
+       
+        
+    
+}
